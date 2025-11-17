@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/hyejeongjin/LeetCode-Algorithm/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/hyejeongjin/LeetCode-Algorithm/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/hyejeongjin/LeetCode-Algorithm/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/hyejeongjin/LeetCode-Algorithm/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/hyejeongjin/LeetCode-Algorithm/tree/master/1541-top-travellers) |
 | [1827-invalid-tweets](https://github.com/hyejeongjin/LeetCode-Algorithm/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/hyejeongjin/LeetCode-Algorithm/tree/master/1908-recyclable-and-low-fat-products) |
